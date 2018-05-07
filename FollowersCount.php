@@ -1,8 +1,8 @@
 <?
 $str = file_get_contents("https://www.instagram.com/$ourusername/");
 
-$startfollowers = '<meta property="og:description" content="';
-$endfollowers = ' Followers';
+$startfollowers = '"edge_followed_by":{"count":';
+$endfollowers = '},';
 
 $patternfollowers = sprintf(
     '/%s(.+?)%s/ims',

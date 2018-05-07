@@ -3,6 +3,7 @@ include 'config.php';
 include 'FollowersCount.php';
 include 'FollowingCount.php';
 include 'FetchProfilePic.php';
+include 'PostNumb.php';
 
 echo '<img src="'.$piclink.'" />';
 echo "<br>";

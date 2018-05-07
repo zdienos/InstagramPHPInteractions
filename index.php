@@ -10,4 +10,6 @@ echo "<br>";
 echo 'Followers: '.$followers;
 echo "<br>";
 echo 'Following: '.$following;
+echo "<br>";
+echo 'Number of posts: '.$postnumb;
 ?>

